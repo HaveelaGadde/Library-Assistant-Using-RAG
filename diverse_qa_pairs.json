@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What imaging techniques are introduced in Practical Materials Characterization for analyzing materials?",
+    "answer": "The book introduces techniques such as X-Ray Diffraction and Reflectivity, Optical Characterization, XPS, AES, Secondary Ion Mass Spectrometry, and Transmission Electron Microscopy.",
+    "context": "Practical Materials Characterization > X-Ray Diffraction and Reflectivity > Optical Characterization > XPS and AES > Secondary Ion Mass Spectrometry > Transmission Electron Microscopy"
+  },
+  {
+    "question": "Which chapters in Web-Scale Data Management for the Cloud address database services in cloud environments?",
+    "answer": "Chapters like 'Transactional Data Management Services for the Cloud' and 'Overview and Comparison of Current Database-as-a-Service Systems' focus on database services in cloud environments.",
+    "context": "Web-Scale Data Management for the Cloud > Transactional Data Management Services for the Cloud > Overview and Comparison of Current Database-as-a-Service Systems"
+  },
+  {
+    "question": "In which context is Social Network Analysis applied in the book Social Network Analysis in Predictive Policing?",
+    "answer": "The book applies Social Network Analysis to predictive policing, including co-offending networks, organized crime group detection, and crime location prediction.",
+    "context": "Social Network Analysis in Predictive Policing > Co-Offending Networks > Organized Crime Group Detection > Crime Location Prediction"
+  },
+  {
+    "question": "How does the book Multiobjective Genetic Algorithms for Clustering apply clustering techniques in bioinformatics?",
+    "answer": "It includes chapters such as 'Unsupervised Cancer Classification and Gene Marker Identification' and 'Multiobjective Biclustering in Microarray Gene Expression Data', showing applications in bioinformatics.",
+    "context": "Multiobjective Genetic Algorithms for Clustering > Unsupervised Cancer Classification and Gene Marker Identification > Multiobjective Biclustering in Microarray Gene Expression Data"
+  },
+  {
+    "question": "What does Understanding Imagination explore about Descartes and Kant’s views?",
+    "answer": "The book explores 'The Dynamically Imaginative Cognition of Descartes' and 'The Cartesian Heritage: Kant and the Conceptual Topology of Imagination and Reason.'",
+    "context": "Understanding Imagination > The Dynamically Imaginative Cognition of Descartes > The Cartesian Heritage: Kant and the Conceptual Topology of Imagination and Reason"
+  },
+  {
+    "question": "Which technologies are discussed in Technology Enhanced Learning to improve accessibility in education?",
+    "answer": "Technologies like the MAS Platform for people with disabilities and 3D tools used in Mii School for detecting drug abuse and bullying are discussed.",
+    "context": "Technology Enhanced Learning > The MAS Platform for People with Disabilities > Mii School > Detecting Drug Abuse and Bullying"
+  },
+  {
+    "question": "What is the subject focus of Classical Biological Control of Bemisia tabaci in the United States?",
+    "answer": "The book focuses on identifying, evaluating, and releasing parasitoids and natural enemies to biologically control Bemisia tabaci in the U.S.",
+    "context": "Classical Biological Control of Bemisia tabaci in the United States > Identification of Parasitoids > Evaluation and Release of Natural Enemies"
+  },
+  {
+    "question": "Which health conditions are discussed in Interdisciplinary Concepts in Cardiovascular Health?",
+    "answer": "The book covers hypertension, obesity, diabetes, dyslipoproteinemias, hyperuricemia, and biomarker discovery through proteomics.",
+    "context": "Interdisciplinary Concepts in Cardiovascular Health > Hypertension > Obesity > Diabetes > Dyslipoproteinemias > Hyperuricemia > Proteomics and Biomarker Discovery"
+  },
+  {
+    "question": "What types of seismic events are covered in The 1940 Vrancea Earthquake?",
+    "answer": "The book covers historical earthquakes, seismic hazard assessment, structural design performance, and seismic risk evaluations in Romania and neighboring regions.",
+    "context": "The 1940 Vrancea Earthquake > Historical Earthquakes > Seismic Hazard Assessment > Structural Design Performance > Seismic Risk Evaluations"
+  },
+  {
+    "question": "What computational methods are discussed in Pattern Recognition and Machine Intelligence?",
+    "answer": "The book discusses pattern recognition, machine learning, image and speech processing, deep learning, and big data analytics.",
+    "context": "Pattern Recognition and Machine Intelligence > Pattern Recognition > Machine Learning > Image and Speech Processing > Deep Learning > Big Data Analytics"
+  }
+]
