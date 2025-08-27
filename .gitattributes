@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+# Ignore model files
+finetuned-flan-t5/
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.ckpt
+*.h5
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.p filter=lfs diff=lfs merge=lfs -text
